@@ -1,4 +1,4 @@
-nclude "sum.h"
+#include "sum.h"
 int sum(int n)
 {
 int re=0;
